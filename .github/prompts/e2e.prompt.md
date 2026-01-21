@@ -8,7 +8,7 @@ This command invokes the **e2e-runner** agent to generate, maintain, and execute
 
 ## What This Command Does
 
-1. **Generate Test Journeys** - Create Playwright tests for user flows
+1. **Generate Test Journeys** - Create Playwright tests for user flows in folder `./e2e/tests`
 2. **Run E2E Tests** - Execute tests across browsers
 3. **Capture Artifacts** - Screenshots, videos, traces on failures
 4. **Upload Results** - HTML reports and JUnit XML
