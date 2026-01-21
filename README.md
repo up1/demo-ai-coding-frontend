@@ -8,6 +8,8 @@ $npx add-skill vercel-labs/agent-skills
 ```
 
 ## 2. Create react project with [Vite](https://vite.dev/)
+* React
+* React Router
 ```
 $npm create vite@latest
 ```
