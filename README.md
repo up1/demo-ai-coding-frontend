@@ -12,7 +12,7 @@ $npx add-skill vercel-labs/agent-skills
 $npm create vite@latest
 ```
 
-## 3. Start Coding with AI
+## 3. Start Coding with AI + Skill
 * Features/login.md
 
 ```

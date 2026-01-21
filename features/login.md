@@ -23,9 +23,11 @@ password : <text field with id/name/data_test_id=my_password>
 1. User fillin username and password
 2. Press "Try login" button
 3. Client side validation
-   3.1 If fail then show error message !!
+   3.1 If fail then show error message with "Error na !!"
    3.2 If pass then Go to step 4
 4. Call Login API from HTTPs protocol with Fetch API
+   4.1 If fail then show error message with "Error again !!"
+   4.2 If pass then Show firstname and lastname
 
 ## Specification of Login API
 * POST https://dummyjson.com/auth/login
