@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="3.163113">
+<testsuite name="login.spec.ts" timestamp="2026-01-21T08:26:50.174Z" hostname="chromium" tests="1" failures="0" skipped="0" time="1.997" errors="0">
+<testcase name="Login Flow › user can login successfully with valid credentials" classname="login.spec.ts" time="1.997">
+</testcase>
+</testsuite>
+</testsuites>
