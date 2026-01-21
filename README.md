@@ -23,5 +23,5 @@ $npm run dev
 * Features/login.md
 
 ```
-Generate login page with react best practice
+Develop login page with vercel react best practice
 ```
