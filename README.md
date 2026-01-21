@@ -29,4 +29,5 @@ Develop login page with vercel react best practice
 ## 4. Rebuild UI with Figma design
 * Use MCP => `.vscode/mcp.json`
   * Figma MCP Server
-* Create login page with figma https://www.figma.com/proto/2VeEm32N0Aa9XEgu2kz49m/Glass-Effect-Login-Page--Community-?node-id=203-3&t=LRuwifJQhtztCs66-1
+* Create login page with with vercel react best practice and UI desigm from figma https://www.figma.com/proto/2VeEm32N0Aa9XEgu2kz49m/Glass-Effect-Login-Page--Community-?node-id=203-3&t=LRuwifJQhtztCs66-1
+* Improve code with vercel react best practice
